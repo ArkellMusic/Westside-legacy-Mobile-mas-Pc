@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Westside Crime",
+	"Description": "Delitos, testigos, descripcion policial (ropa y vehiculo) y reconocimiento por parte de la policia para WESTSIDE LEGACY.",
+	"Category": "Gameplay",
+	"CreatedBy": "Vanta Studio",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Modules": [
+		{
+			"Name": "WestsideCrime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
